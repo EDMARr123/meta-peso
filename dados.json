@@ -1,0 +1,2286 @@
+{
+  "rcas": [
+    {
+      "codigo": 33,
+      "nome": "ARTHUR",
+      "rota": "GYN RT 19 - SEG 02",
+      "supervisor": "EDMAR",
+      "categorias": {
+        "bacon": {
+          "peso": 47.393,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 3368.83,
+          "positivacao": 20
+        },
+        "frescais": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "paes": {
+          "peso": 50.4,
+          "positivacao": 8
+        },
+        "lactios": {
+          "peso": 43.5,
+          "positivacao": 5
+        },
+        "batata": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 22,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 4798.2,
+          "positivacao": 20
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 23,
+      "nome": "FABIO L.",
+      "rota": "GYN RT 21 - SEG 01",
+      "supervisor": "EDMAR",
+      "categorias": {
+        "bacon": {
+          "peso": 211.037,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 384,
+          "positivacao": 9
+        },
+        "frescais": {
+          "peso": 200,
+          "positivacao": 1
+        },
+        "paes": {
+          "peso": 176.4,
+          "positivacao": 4
+        },
+        "lactios": {
+          "peso": 254.944,
+          "positivacao": 16
+        },
+        "batata": {
+          "peso": 120,
+          "positivacao": 2
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 306.604,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 1135.44,
+          "positivacao": 7
+        },
+        "vegetais": {
+          "peso": 4.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 164,
+      "nome": "JOAO VITOR",
+      "rota": "GYN RT 13 - BR GOYÁ",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 280.23,
+          "positivacao": 10
+        },
+        "calabresa": {
+          "peso": 933.8,
+          "positivacao": 24
+        },
+        "frescais": {
+          "peso": 699,
+          "positivacao": 14
+        },
+        "paes": {
+          "peso": 361.2,
+          "positivacao": 16
+        },
+        "lactios": {
+          "peso": 310.635,
+          "positivacao": 25
+        },
+        "batata": {
+          "peso": 1079,
+          "positivacao": 21
+        },
+        "bovino": {
+          "peso": 165.25,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 98.089,
+          "positivacao": 4
+        },
+        "thermo_cat": {
+          "peso": 943.8,
+          "positivacao": 36
+        },
+        "vegetais": {
+          "peso": 92.5,
+          "positivacao": 7
+        }
+      }
+    },
+    {
+      "codigo": 383,
+      "nome": "GABRIEL LOURENÇO",
+      "rota": "GYN RT 106 - VL. NOVA",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 159.25,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 299.6,
+          "positivacao": 17
+        },
+        "frescais": {
+          "peso": 602,
+          "positivacao": 17
+        },
+        "paes": {
+          "peso": 110.4,
+          "positivacao": 8
+        },
+        "lactios": {
+          "peso": 970.452,
+          "positivacao": 20
+        },
+        "batata": {
+          "peso": 277.5,
+          "positivacao": 11
+        },
+        "bovino": {
+          "peso": 80.3,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 103.685,
+          "positivacao": 4
+        },
+        "thermo_cat": {
+          "peso": 447.904,
+          "positivacao": 32
+        },
+        "vegetais": {
+          "peso": 56.5,
+          "positivacao": 8
+        }
+      }
+    },
+    {
+      "codigo": 45,
+      "nome": "TIAGO",
+      "rota": "GYN RT 40 - PALMEIRAS",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 124.253,
+          "positivacao": 8
+        },
+        "calabresa": {
+          "peso": 695.2,
+          "positivacao": 17
+        },
+        "frescais": {
+          "peso": 163,
+          "positivacao": 8
+        },
+        "paes": {
+          "peso": 606,
+          "positivacao": 22
+        },
+        "lactios": {
+          "peso": 239.694,
+          "positivacao": 23
+        },
+        "batata": {
+          "peso": 558.5,
+          "positivacao": 13
+        },
+        "bovino": {
+          "peso": 100.74,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 197.124,
+          "positivacao": 4
+        },
+        "thermo_cat": {
+          "peso": 822.88,
+          "positivacao": 20
+        },
+        "vegetais": {
+          "peso": 66,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 47,
+      "nome": "MARCELO",
+      "rota": "GYN RT 42 - INHUMAS",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 28.743,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 331.2,
+          "positivacao": 21
+        },
+        "frescais": {
+          "peso": 338,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 182.4,
+          "positivacao": 24
+        },
+        "lactios": {
+          "peso": 120.55,
+          "positivacao": 24
+        },
+        "batata": {
+          "peso": 508,
+          "positivacao": 22
+        },
+        "bovino": {
+          "peso": 60,
+          "positivacao": 4
+        },
+        "suino": {
+          "peso": 80,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 1486.856,
+          "positivacao": 50
+        },
+        "vegetais": {
+          "peso": 35.5,
+          "positivacao": 6
+        }
+      }
+    },
+    {
+      "codigo": 405,
+      "nome": "WILLIAN",
+      "rota": "GYN RT 77 - TLMK",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 93.429,
+          "positivacao": 8
+        },
+        "calabresa": {
+          "peso": 183.4,
+          "positivacao": 18
+        },
+        "frescais": {
+          "peso": 857,
+          "positivacao": 26
+        },
+        "paes": {
+          "peso": 25.2,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 117.5,
+          "positivacao": 8
+        },
+        "batata": {
+          "peso": 327,
+          "positivacao": 9
+        },
+        "bovino": {
+          "peso": 103.23,
+          "positivacao": 7
+        },
+        "suino": {
+          "peso": 162.489,
+          "positivacao": 5
+        },
+        "thermo_cat": {
+          "peso": 1779.36,
+          "positivacao": 23
+        },
+        "vegetais": {
+          "peso": 18,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 85,
+      "nome": "CARLOS HENRIQUE",
+      "rota": "GYN RT 61 - JD ITAIPU",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 143.62,
+          "positivacao": 7
+        },
+        "calabresa": {
+          "peso": 480.6,
+          "positivacao": 30
+        },
+        "frescais": {
+          "peso": 229,
+          "positivacao": 12
+        },
+        "paes": {
+          "peso": 98.4,
+          "positivacao": 10
+        },
+        "lactios": {
+          "peso": 182.05,
+          "positivacao": 26
+        },
+        "batata": {
+          "peso": 409,
+          "positivacao": 14
+        },
+        "bovino": {
+          "peso": 62.48,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 152.893,
+          "positivacao": 5
+        },
+        "thermo_cat": {
+          "peso": 786.072,
+          "positivacao": 51
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 439,
+      "nome": "GUILHERME AUGUSTO",
+      "rota": "GYN RT 07 - TRINDADE",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 154.023,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 272.8,
+          "positivacao": 22
+        },
+        "frescais": {
+          "peso": 231,
+          "positivacao": 11
+        },
+        "paes": {
+          "peso": 196.8,
+          "positivacao": 13
+        },
+        "lactios": {
+          "peso": 85.28,
+          "positivacao": 13
+        },
+        "batata": {
+          "peso": 797,
+          "positivacao": 20
+        },
+        "bovino": {
+          "peso": 12.52,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 442.115,
+          "positivacao": 7
+        },
+        "thermo_cat": {
+          "peso": 1760.088,
+          "positivacao": 29
+        },
+        "vegetais": {
+          "peso": 16.5,
+          "positivacao": 3
+        }
+      }
+    },
+    {
+      "codigo": 738,
+      "nome": "MARCEL HENRIQUE",
+      "rota": "GYN RT 62 - TRINDADE",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 218.863,
+          "positivacao": 6
+        },
+        "calabresa": {
+          "peso": 409.2,
+          "positivacao": 13
+        },
+        "frescais": {
+          "peso": 316,
+          "positivacao": 13
+        },
+        "paes": {
+          "peso": 259.2,
+          "positivacao": 10
+        },
+        "lactios": {
+          "peso": 147.615,
+          "positivacao": 17
+        },
+        "batata": {
+          "peso": 982,
+          "positivacao": 24
+        },
+        "bovino": {
+          "peso": 286.95,
+          "positivacao": 7
+        },
+        "suino": {
+          "peso": 81.478,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 872.712,
+          "positivacao": 40
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 81,
+      "nome": "LOIOLA",
+      "rota": "GYN RT 57 - AP. GYN",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 59.56,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 170.5,
+          "positivacao": 14
+        },
+        "frescais": {
+          "peso": 1009,
+          "positivacao": 14
+        },
+        "paes": {
+          "peso": 57.6,
+          "positivacao": 7
+        },
+        "lactios": {
+          "peso": 148.75,
+          "positivacao": 14
+        },
+        "batata": {
+          "peso": 375,
+          "positivacao": 12
+        },
+        "bovino": {
+          "peso": 82.56,
+          "positivacao": 4
+        },
+        "suino": {
+          "peso": 27.68,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 1083.368,
+          "positivacao": 37
+        },
+        "vegetais": {
+          "peso": 5.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 428,
+      "nome": "TAUA F.",
+      "rota": "GYN RT 45 - NOVA VENEZA",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 242.352,
+          "positivacao": 8
+        },
+        "calabresa": {
+          "peso": 374.355,
+          "positivacao": 20
+        },
+        "frescais": {
+          "peso": 259,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 258,
+          "positivacao": 22
+        },
+        "lactios": {
+          "peso": 101.295,
+          "positivacao": 17
+        },
+        "batata": {
+          "peso": 175,
+          "positivacao": 10
+        },
+        "bovino": {
+          "peso": 139.36,
+          "positivacao": 8
+        },
+        "suino": {
+          "peso": 56.05,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 639.864,
+          "positivacao": 37
+        },
+        "vegetais": {
+          "peso": 4.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 657,
+      "nome": "YURI ENRIQUE",
+      "rota": "GYN RT 108 - JD OLIMPICO",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 31.054,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 203.8,
+          "positivacao": 16
+        },
+        "frescais": {
+          "peso": 130,
+          "positivacao": 7
+        },
+        "paes": {
+          "peso": 67.2,
+          "positivacao": 7
+        },
+        "lactios": {
+          "peso": 132.573,
+          "positivacao": 13
+        },
+        "batata": {
+          "peso": 87,
+          "positivacao": 6
+        },
+        "bovino": {
+          "peso": 20,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 223.697,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 465.048,
+          "positivacao": 19
+        },
+        "vegetais": {
+          "peso": 45.5,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 729,
+      "nome": "MARCELO ALVES",
+      "rota": "GYN RT 101 - JD AMERICA",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 14.61,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 93.8,
+          "positivacao": 10
+        },
+        "frescais": {
+          "peso": 230,
+          "positivacao": 3
+        },
+        "paes": {
+          "peso": 115.2,
+          "positivacao": 8
+        },
+        "lactios": {
+          "peso": 128.579,
+          "positivacao": 12
+        },
+        "batata": {
+          "peso": 158,
+          "positivacao": 6
+        },
+        "bovino": {
+          "peso": 20,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 31.63,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 192.096,
+          "positivacao": 12
+        },
+        "vegetais": {
+          "peso": 37.5,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 42,
+      "nome": "PAULO RONAN",
+      "rota": "GYN RT 37 - ST OESTE",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 61.899,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 145.915,
+          "positivacao": 11
+        },
+        "frescais": {
+          "peso": 1037,
+          "positivacao": 11
+        },
+        "paes": {
+          "peso": 68.4,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 98.218,
+          "positivacao": 4
+        },
+        "batata": {
+          "peso": 288,
+          "positivacao": 9
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 329.071,
+          "positivacao": 7
+        },
+        "thermo_cat": {
+          "peso": 475.008,
+          "positivacao": 11
+        },
+        "vegetais": {
+          "peso": 82.5,
+          "positivacao": 3
+        }
+      }
+    },
+    {
+      "codigo": 644,
+      "nome": "ALBERTO SANTOS",
+      "rota": "GYN RT 10 - BR ILDA",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 143.458,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 136.2,
+          "positivacao": 8
+        },
+        "frescais": {
+          "peso": 1474,
+          "positivacao": 12
+        },
+        "paes": {
+          "peso": 90,
+          "positivacao": 5
+        },
+        "lactios": {
+          "peso": 33.25,
+          "positivacao": 7
+        },
+        "batata": {
+          "peso": 175.5,
+          "positivacao": 4
+        },
+        "bovino": {
+          "peso": 40,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 23.369,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 413.592,
+          "positivacao": 25
+        },
+        "vegetais": {
+          "peso": 5.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 12,
+      "nome": "FABIANO",
+      "rota": "GYN RT 08 - VL PEDROSO",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "calabresa": {
+          "peso": 152.245,
+          "positivacao": 7
+        },
+        "frescais": {
+          "peso": 124,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 112.8,
+          "positivacao": 10
+        },
+        "lactios": {
+          "peso": 86.43,
+          "positivacao": 19
+        },
+        "batata": {
+          "peso": 67,
+          "positivacao": 4
+        },
+        "bovino": {
+          "peso": 30,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "thermo_cat": {
+          "peso": 309.072,
+          "positivacao": 33
+        },
+        "vegetais": {
+          "peso": 22,
+          "positivacao": 2
+        }
+      }
+    },
+    {
+      "codigo": 347,
+      "nome": "MATIAS",
+      "rota": "GYN RT 98 - BR.VITORIA/JD.CURIT",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 55.857,
+          "positivacao": 5
+        },
+        "calabresa": {
+          "peso": 403.4,
+          "positivacao": 12
+        },
+        "frescais": {
+          "peso": 627,
+          "positivacao": 6
+        },
+        "paes": {
+          "peso": 108,
+          "positivacao": 14
+        },
+        "lactios": {
+          "peso": 124.25,
+          "positivacao": 14
+        },
+        "batata": {
+          "peso": 309,
+          "positivacao": 12
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 45.348,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 1015,
+          "positivacao": 28
+        },
+        "vegetais": {
+          "peso": 16.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 15,
+      "nome": "WESLEY",
+      "rota": "GYN RT 11 - JD TIRADENTES",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 50.806,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 250,
+          "positivacao": 19
+        },
+        "frescais": {
+          "peso": 346,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 91.2,
+          "positivacao": 15
+        },
+        "lactios": {
+          "peso": 340.806,
+          "positivacao": 22
+        },
+        "batata": {
+          "peso": 200,
+          "positivacao": 13
+        },
+        "bovino": {
+          "peso": 48.12,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 12,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 537.624,
+          "positivacao": 41
+        },
+        "vegetais": {
+          "peso": 44,
+          "positivacao": 5
+        }
+      }
+    },
+    {
+      "codigo": 467,
+      "nome": "IGOR SA",
+      "rota": "GYN RT 50 - CD JARDIM",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 14.96,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 17.6,
+          "positivacao": 1
+        },
+        "frescais": {
+          "peso": 61,
+          "positivacao": 3
+        },
+        "paes": {
+          "peso": 32.4,
+          "positivacao": 1
+        },
+        "lactios": {
+          "peso": 312.805,
+          "positivacao": 8
+        },
+        "batata": {
+          "peso": 175,
+          "positivacao": 5
+        },
+        "bovino": {
+          "peso": 247.32,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 80.252,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 352.2,
+          "positivacao": 15
+        },
+        "vegetais": {
+          "peso": 110,
+          "positivacao": 5
+        }
+      }
+    },
+    {
+      "codigo": 687,
+      "nome": "EDREY MARTINS",
+      "rota": "GYN RT 02 - ST. BUENO",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 171.988,
+          "positivacao": 6
+        },
+        "calabresa": {
+          "peso": 299.755,
+          "positivacao": 11
+        },
+        "frescais": {
+          "peso": 1037,
+          "positivacao": 11
+        },
+        "paes": {
+          "peso": 21.6,
+          "positivacao": 4
+        },
+        "lactios": {
+          "peso": 71.883,
+          "positivacao": 5
+        },
+        "batata": {
+          "peso": 589.5,
+          "positivacao": 9
+        },
+        "bovino": {
+          "peso": 120,
+          "positivacao": 4
+        },
+        "suino": {
+          "peso": 410.186,
+          "positivacao": 13
+        },
+        "thermo_cat": {
+          "peso": 80.832,
+          "positivacao": 5
+        },
+        "vegetais": {
+          "peso": 83.5,
+          "positivacao": 7
+        }
+      }
+    },
+    {
+      "codigo": 698,
+      "nome": "FERNANDO OLIVEIRA",
+      "rota": "RT 24 - PQ ANHANGU",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 62.316,
+          "positivacao": 4
+        },
+        "calabresa": {
+          "peso": 66,
+          "positivacao": 6
+        },
+        "frescais": {
+          "peso": 98,
+          "positivacao": 4
+        },
+        "paes": {
+          "peso": 135.6,
+          "positivacao": 14
+        },
+        "lactios": {
+          "peso": 35.65,
+          "positivacao": 9
+        },
+        "batata": {
+          "peso": 556.5,
+          "positivacao": 14
+        },
+        "bovino": {
+          "peso": 20,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 179.821,
+          "positivacao": 4
+        },
+        "thermo_cat": {
+          "peso": 302.496,
+          "positivacao": 20
+        },
+        "vegetais": {
+          "peso": 134.5,
+          "positivacao": 6
+        }
+      }
+    },
+    {
+      "codigo": 192,
+      "nome": "LUCAS LEAL",
+      "rota": "GYN RT 83 - EXPANSUL",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 34.143,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 305,
+          "positivacao": 15
+        },
+        "frescais": {
+          "peso": 812,
+          "positivacao": 20
+        },
+        "paes": {
+          "peso": 54,
+          "positivacao": 8
+        },
+        "lactios": {
+          "peso": 144.103,
+          "positivacao": 11
+        },
+        "batata": {
+          "peso": 292.5,
+          "positivacao": 12
+        },
+        "bovino": {
+          "peso": 41.76,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 39.167,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 592.248,
+          "positivacao": 27
+        },
+        "vegetais": {
+          "peso": 25.5,
+          "positivacao": 3
+        }
+      }
+    },
+    {
+      "codigo": 334,
+      "nome": "JOAO GABRIEL",
+      "rota": "GYN RT 99 - ST. MARISTA",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 168.385,
+          "positivacao": 5
+        },
+        "calabresa": {
+          "peso": 115.8,
+          "positivacao": 7
+        },
+        "frescais": {
+          "peso": 255,
+          "positivacao": 12
+        },
+        "paes": {
+          "peso": 10.8,
+          "positivacao": 1
+        },
+        "lactios": {
+          "peso": 7.9,
+          "positivacao": 1
+        },
+        "batata": {
+          "peso": 134.5,
+          "positivacao": 7
+        },
+        "bovino": {
+          "peso": 221.74,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 101.126,
+          "positivacao": 5
+        },
+        "thermo_cat": {
+          "peso": 1651.896,
+          "positivacao": 16
+        },
+        "vegetais": {
+          "peso": 44,
+          "positivacao": 3
+        }
+      }
+    },
+    {
+      "codigo": 83,
+      "nome": "MARCOS SILVA",
+      "rota": "GYN RT 59 - AP. GYN",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 348.202,
+          "positivacao": 4
+        },
+        "calabresa": {
+          "peso": 352,
+          "positivacao": 22
+        },
+        "frescais": {
+          "peso": 507,
+          "positivacao": 25
+        },
+        "paes": {
+          "peso": 26.4,
+          "positivacao": 4
+        },
+        "lactios": {
+          "peso": 195.445,
+          "positivacao": 25
+        },
+        "batata": {
+          "peso": 486.5,
+          "positivacao": 19
+        },
+        "bovino": {
+          "peso": 10,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 138.902,
+          "positivacao": 6
+        },
+        "thermo_cat": {
+          "peso": 541.44,
+          "positivacao": 47
+        },
+        "vegetais": {
+          "peso": 132,
+          "positivacao": 5
+        }
+      }
+    },
+    {
+      "codigo": 357,
+      "nome": "LUCIANO",
+      "rota": "GYN RT 95 - FINSOCIAL",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 38.56,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 325.6,
+          "positivacao": 17
+        },
+        "frescais": {
+          "peso": 221,
+          "positivacao": 10
+        },
+        "paes": {
+          "peso": 69.6,
+          "positivacao": 9
+        },
+        "lactios": {
+          "peso": 158.495,
+          "positivacao": 24
+        },
+        "batata": {
+          "peso": 358.5,
+          "positivacao": 25
+        },
+        "bovino": {
+          "peso": 70.08,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 85.606,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 1057.56,
+          "positivacao": 54
+        },
+        "vegetais": {
+          "peso": 16.5,
+          "positivacao": 2
+        }
+      }
+    },
+    {
+      "codigo": 722,
+      "nome": "LUIZ GUSTAVO",
+      "rota": "GYN RT 79-JD GUANAB",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 15,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 170.8,
+          "positivacao": 16
+        },
+        "frescais": {
+          "peso": 454,
+          "positivacao": 13
+        },
+        "paes": {
+          "peso": 133.2,
+          "positivacao": 15
+        },
+        "lactios": {
+          "peso": 118.65,
+          "positivacao": 16
+        },
+        "batata": {
+          "peso": 419.5,
+          "positivacao": 16
+        },
+        "bovino": {
+          "peso": 196.87,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 46.97,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 336.36,
+          "positivacao": 25
+        },
+        "vegetais": {
+          "peso": 9,
+          "positivacao": 2
+        }
+      }
+    },
+    {
+      "codigo": 622,
+      "nome": "HAMBER",
+      "rota": "GYN RT 65 - PARQUE SANTA RITA",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 263.619,
+          "positivacao": 6
+        },
+        "calabresa": {
+          "peso": 286.545,
+          "positivacao": 16
+        },
+        "frescais": {
+          "peso": 349,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 94.8,
+          "positivacao": 10
+        },
+        "lactios": {
+          "peso": 114,
+          "positivacao": 12
+        },
+        "batata": {
+          "peso": 333.5,
+          "positivacao": 13
+        },
+        "bovino": {
+          "peso": 163.75,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 418.611,
+          "positivacao": 7
+        },
+        "thermo_cat": {
+          "peso": 461.904,
+          "positivacao": 20
+        },
+        "vegetais": {
+          "peso": 32,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 398,
+      "nome": "UCLEIBSON",
+      "rota": "GYN RT 110 - VAREJO MARISTA",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 6,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 28.8,
+          "positivacao": 2
+        },
+        "frescais": {
+          "peso": 447,
+          "positivacao": 6
+        },
+        "paes": {
+          "peso": 10.8,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 54.65,
+          "positivacao": 6
+        },
+        "batata": {
+          "peso": 60,
+          "positivacao": 1
+        },
+        "bovino": {
+          "peso": 10,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 100.91,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 139.144,
+          "positivacao": 12
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 471,
+      "nome": "ANTONIO EDVALDO",
+      "rota": "GYN RT 47 - ST UNIV",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 217.564,
+          "positivacao": 6
+        },
+        "calabresa": {
+          "peso": 280,
+          "positivacao": 19
+        },
+        "frescais": {
+          "peso": 180,
+          "positivacao": 8
+        },
+        "paes": {
+          "peso": 102,
+          "positivacao": 9
+        },
+        "lactios": {
+          "peso": 66.49,
+          "positivacao": 12
+        },
+        "batata": {
+          "peso": 181,
+          "positivacao": 10
+        },
+        "bovino": {
+          "peso": 20,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 261.371,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 302.424,
+          "positivacao": 20
+        },
+        "vegetais": {
+          "peso": 44,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 735,
+      "nome": "CARLOS RAFAEL",
+      "rota": "GYN RT 90 - VERA CRUZ",
+      "supervisor": "IDEGLAN",
+      "categorias": {
+        "bacon": {
+          "peso": 181.237,
+          "positivacao": 4
+        },
+        "calabresa": {
+          "peso": 197.2,
+          "positivacao": 13
+        },
+        "frescais": {
+          "peso": 387,
+          "positivacao": 14
+        },
+        "paes": {
+          "peso": 126,
+          "positivacao": 12
+        },
+        "lactios": {
+          "peso": 124.46,
+          "positivacao": 27
+        },
+        "batata": {
+          "peso": 165,
+          "positivacao": 11
+        },
+        "bovino": {
+          "peso": 225.1,
+          "positivacao": 8
+        },
+        "suino": {
+          "peso": 66.219,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 481.6,
+          "positivacao": 35
+        },
+        "vegetais": {
+          "peso": 24.5,
+          "positivacao": 2
+        }
+      }
+    },
+    {
+      "codigo": 679,
+      "nome": "RAFAEL COSTA",
+      "rota": "GYN RT 15 - JD AMERICA",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 112.58,
+          "positivacao": 7
+        },
+        "calabresa": {
+          "peso": 333.8,
+          "positivacao": 21
+        },
+        "frescais": {
+          "peso": 258,
+          "positivacao": 13
+        },
+        "paes": {
+          "peso": 73.2,
+          "positivacao": 6
+        },
+        "lactios": {
+          "peso": 91.18,
+          "positivacao": 13
+        },
+        "batata": {
+          "peso": 529,
+          "positivacao": 17
+        },
+        "bovino": {
+          "peso": 33.06,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 151.289,
+          "positivacao": 8
+        },
+        "thermo_cat": {
+          "peso": 1053.48,
+          "positivacao": 23
+        },
+        "vegetais": {
+          "peso": 26.5,
+          "positivacao": 5
+        }
+      }
+    },
+    {
+      "codigo": 723,
+      "nome": "JEAN PIERRE",
+      "rota": "GYN RT 97 - ST PERIM",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 24.99,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 241.96,
+          "positivacao": 13
+        },
+        "frescais": {
+          "peso": 31,
+          "positivacao": 3
+        },
+        "paes": {
+          "peso": 73.2,
+          "positivacao": 6
+        },
+        "lactios": {
+          "peso": 64.94,
+          "positivacao": 6
+        },
+        "batata": {
+          "peso": 136,
+          "positivacao": 4
+        },
+        "bovino": {
+          "peso": 50,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 12,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 298.776,
+          "positivacao": 24
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 16,
+      "nome": "BERALDO",
+      "rota": "GYN RT 12 - ST GARAVELO",
+      "supervisor": "RICARDO",
+      "categorias": {
+        "bacon": {
+          "peso": 14.12,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 187.8,
+          "positivacao": 13
+        },
+        "frescais": {
+          "peso": 116,
+          "positivacao": 3
+        },
+        "paes": {
+          "peso": 46.8,
+          "positivacao": 6
+        },
+        "lactios": {
+          "peso": 29.7,
+          "positivacao": 6
+        },
+        "batata": {
+          "peso": 224.5,
+          "positivacao": 10
+        },
+        "bovino": {
+          "peso": 10,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 39.959,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 271.216,
+          "positivacao": 25
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 473,
+      "nome": "KAIKY DIAS",
+      "rota": "GYN RT 03 - CENTRO",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 35.573,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 179.2,
+          "positivacao": 8
+        },
+        "frescais": {
+          "peso": 436,
+          "positivacao": 16
+        },
+        "paes": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "lactios": {
+          "peso": 100.805,
+          "positivacao": 8
+        },
+        "batata": {
+          "peso": 423,
+          "positivacao": 17
+        },
+        "bovino": {
+          "peso": 121.92,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 436.34,
+          "positivacao": 8
+        },
+        "thermo_cat": {
+          "peso": 376.952,
+          "positivacao": 18
+        },
+        "vegetais": {
+          "peso": 137.5,
+          "positivacao": 8
+        }
+      }
+    },
+    {
+      "codigo": 650,
+      "nome": "ANDRE WILKER",
+      "rota": "GYN RT 96 - HIDROLANDIA",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 212.302,
+          "positivacao": 4
+        },
+        "calabresa": {
+          "peso": 241.59,
+          "positivacao": 21
+        },
+        "frescais": {
+          "peso": 568,
+          "positivacao": 17
+        },
+        "paes": {
+          "peso": 122.4,
+          "positivacao": 15
+        },
+        "lactios": {
+          "peso": 68.47,
+          "positivacao": 15
+        },
+        "batata": {
+          "peso": 319,
+          "positivacao": 12
+        },
+        "bovino": {
+          "peso": 24.9,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 243.542,
+          "positivacao": 6
+        },
+        "thermo_cat": {
+          "peso": 482.856,
+          "positivacao": 34
+        },
+        "vegetais": {
+          "peso": 130.5,
+          "positivacao": 10
+        }
+      }
+    },
+    {
+      "codigo": 561,
+      "nome": "THALLES VIEIRA",
+      "rota": "GYN RT 06 - GOIANIRA",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 56.434,
+          "positivacao": 4
+        },
+        "calabresa": {
+          "peso": 375.9,
+          "positivacao": 15
+        },
+        "frescais": {
+          "peso": 199,
+          "positivacao": 6
+        },
+        "paes": {
+          "peso": 163.2,
+          "positivacao": 13
+        },
+        "lactios": {
+          "peso": 101.9,
+          "positivacao": 18
+        },
+        "batata": {
+          "peso": 702,
+          "positivacao": 15
+        },
+        "bovino": {
+          "peso": 77.5,
+          "positivacao": 5
+        },
+        "suino": {
+          "peso": 28,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 756.68,
+          "positivacao": 37
+        },
+        "vegetais": {
+          "peso": 9,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 649,
+      "nome": "WALLACE SOUSA",
+      "rota": "GYN RT 14 - AP CENTRO",
+      "supervisor": "LEANDRO",
+      "categorias": {
+        "bacon": {
+          "peso": 28.682,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 307.4,
+          "positivacao": 20
+        },
+        "frescais": {
+          "peso": 265,
+          "positivacao": 13
+        },
+        "paes": {
+          "peso": 64.8,
+          "positivacao": 6
+        },
+        "lactios": {
+          "peso": 166.639,
+          "positivacao": 10
+        },
+        "batata": {
+          "peso": 76.5,
+          "positivacao": 6
+        },
+        "bovino": {
+          "peso": 20,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 15,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 757.248,
+          "positivacao": 35
+        },
+        "vegetais": {
+          "peso": 88,
+          "positivacao": 4
+        }
+      }
+    },
+    {
+      "codigo": 377,
+      "nome": "CELISMAR",
+      "rota": "GYN RT 103 - S. CANEDO",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 48.548,
+          "positivacao": 3
+        },
+        "calabresa": {
+          "peso": 159.6,
+          "positivacao": 15
+        },
+        "frescais": {
+          "peso": 384,
+          "positivacao": 16
+        },
+        "paes": {
+          "peso": 196.8,
+          "positivacao": 16
+        },
+        "lactios": {
+          "peso": 74.29,
+          "positivacao": 19
+        },
+        "batata": {
+          "peso": 339,
+          "positivacao": 18
+        },
+        "bovino": {
+          "peso": 343.81,
+          "positivacao": 16
+        },
+        "suino": {
+          "peso": 156.38,
+          "positivacao": 7
+        },
+        "thermo_cat": {
+          "peso": 516.312,
+          "positivacao": 48
+        },
+        "vegetais": {
+          "peso": 11,
+          "positivacao": 2
+        }
+      }
+    },
+    {
+      "codigo": 751,
+      "nome": "JULIO CESAR",
+      "rota": "GYN RT 85 - CAMPINAS",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "calabresa": {
+          "peso": 133,
+          "positivacao": 10
+        },
+        "frescais": {
+          "peso": 617,
+          "positivacao": 14
+        },
+        "paes": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "lactios": {
+          "peso": 79.663,
+          "positivacao": 3
+        },
+        "batata": {
+          "peso": 402,
+          "positivacao": 10
+        },
+        "bovino": {
+          "peso": 148.99,
+          "positivacao": 4
+        },
+        "suino": {
+          "peso": 338.765,
+          "positivacao": 10
+        },
+        "thermo_cat": {
+          "peso": 974.584,
+          "positivacao": 21
+        },
+        "vegetais": {
+          "peso": 104.5,
+          "positivacao": 10
+        }
+      }
+    },
+    {
+      "codigo": 660,
+      "nome": "LUCAS",
+      "rota": "GYN RT 04 - JD TRIUNFO",
+      "supervisor": "RODRIGO",
+      "categorias": {
+        "bacon": {
+          "peso": 10,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 182.305,
+          "positivacao": 16
+        },
+        "frescais": {
+          "peso": 277,
+          "positivacao": 9
+        },
+        "paes": {
+          "peso": 10.8,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 91.785,
+          "positivacao": 14
+        },
+        "batata": {
+          "peso": 181,
+          "positivacao": 14
+        },
+        "bovino": {
+          "peso": 52,
+          "positivacao": 3
+        },
+        "suino": {
+          "peso": 47.98,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 394.776,
+          "positivacao": 25
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 352,
+      "nome": "DOUGLAS",
+      "rota": "GYN RT 34 - ST P LUDOVICO",
+      "supervisor": "SEM SUPERVISOR",
+      "categorias": {
+        "bacon": {
+          "peso": 51.36,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 100.8,
+          "positivacao": 7
+        },
+        "frescais": {
+          "peso": 461,
+          "positivacao": 15
+        },
+        "paes": {
+          "peso": 25.2,
+          "positivacao": 1
+        },
+        "lactios": {
+          "peso": 16.005,
+          "positivacao": 1
+        },
+        "batata": {
+          "peso": 108,
+          "positivacao": 5
+        },
+        "bovino": {
+          "peso": 36.22,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 193.435,
+          "positivacao": 6
+        },
+        "thermo_cat": {
+          "peso": 147.88,
+          "positivacao": 8
+        },
+        "vegetais": {
+          "peso": 5.5,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 781,
+      "nome": "JOAO LUCAS",
+      "rota": "GYN RT 72 - PQ ATHENEU",
+      "supervisor": "SEM SUPERVISOR",
+      "categorias": {
+        "bacon": {
+          "peso": 31.33,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 84.2,
+          "positivacao": 6
+        },
+        "frescais": {
+          "peso": 208,
+          "positivacao": 10
+        },
+        "paes": {
+          "peso": 21.6,
+          "positivacao": 5
+        },
+        "lactios": {
+          "peso": 20.6,
+          "positivacao": 5
+        },
+        "batata": {
+          "peso": 143,
+          "positivacao": 6
+        },
+        "bovino": {
+          "peso": 61.72,
+          "positivacao": 2
+        },
+        "suino": {
+          "peso": 84.965,
+          "positivacao": 3
+        },
+        "thermo_cat": {
+          "peso": 182.496,
+          "positivacao": 16
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 381,
+      "nome": "RODRIGO T",
+      "rota": "GYN RT 105 - ROTAS ESPECIAIS",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 113.538,
+          "positivacao": 2
+        },
+        "calabresa": {
+          "peso": 58.8,
+          "positivacao": 5
+        },
+        "frescais": {
+          "peso": 76,
+          "positivacao": 3
+        },
+        "paes": {
+          "peso": 43.2,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 31.6,
+          "positivacao": 5
+        },
+        "batata": {
+          "peso": 34.5,
+          "positivacao": 2
+        },
+        "bovino": {
+          "peso": 93.86,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 150.59,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 46,
+          "positivacao": 2
+        },
+        "vegetais": {
+          "peso": 9,
+          "positivacao": 1
+        }
+      }
+    },
+    {
+      "codigo": 791,
+      "nome": "LEANDRO GOMES",
+      "rota": "GYN RT 05 - NOVO MUNDO",
+      "supervisor": "FLAVIANE",
+      "categorias": {
+        "bacon": {
+          "peso": 3,
+          "positivacao": 1
+        },
+        "calabresa": {
+          "peso": 43.6,
+          "positivacao": 6
+        },
+        "frescais": {
+          "peso": 208,
+          "positivacao": 7
+        },
+        "paes": {
+          "peso": 21.6,
+          "positivacao": 3
+        },
+        "lactios": {
+          "peso": 17.55,
+          "positivacao": 2
+        },
+        "batata": {
+          "peso": 41,
+          "positivacao": 3
+        },
+        "bovino": {
+          "peso": 28.37,
+          "positivacao": 1
+        },
+        "suino": {
+          "peso": 33.826,
+          "positivacao": 2
+        },
+        "thermo_cat": {
+          "peso": 53.424,
+          "positivacao": 9
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 793,
+      "nome": "IRON OLIVEIRA",
+      "rota": "GYN RT 112 - FERISTA",
+      "supervisor": "RICHARD",
+      "categorias": {
+        "bacon": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "calabresa": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "frescais": {
+          "peso": 78,
+          "positivacao": 5
+        },
+        "paes": {
+          "peso": 3.6,
+          "positivacao": 1
+        },
+        "lactios": {
+          "peso": 6,
+          "positivacao": 1
+        },
+        "batata": {
+          "peso": 22.5,
+          "positivacao": 2
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 26,
+          "positivacao": 1
+        },
+        "thermo_cat": {
+          "peso": 9,
+          "positivacao": 2
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    },
+    {
+      "codigo": 1000,
+      "nome": "CLIENTES INATIVOS",
+      "rota": "FILIAL 1",
+      "supervisor": "SEM SUPERVISOR",
+      "categorias": {
+        "bacon": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "calabresa": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "frescais": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "paes": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "lactios": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "batata": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "bovino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "suino": {
+          "peso": 0,
+          "positivacao": 0
+        },
+        "thermo_cat": {
+          "peso": 33,
+          "positivacao": 1
+        },
+        "vegetais": {
+          "peso": 0,
+          "positivacao": 0
+        }
+      }
+    }
+  ],
+  "constantes": {
+    "labels_categoria": {
+      "bacon": "Bacon",
+      "calabresa": "Calabresas",
+      "frescais": "Linguiças/Frescais",
+      "paes": "Pães",
+      "lactios": "Lácteos",
+      "batata": "Batata",
+      "bovino": "Bovino",
+      "suino": "Suíno",
+      "thermo_cat": "Thermo",
+      "vegetais": "Vegetais"
+    },
+    "ordem_categorias": [
+      "bacon",
+      "calabresa",
+      "frescais",
+      "paes",
+      "lactios",
+      "batata",
+      "bovino",
+      "suino",
+      "thermo_cat",
+      "vegetais"
+    ]
+  }
+}
