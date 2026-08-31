@@ -193,16 +193,16 @@ function montarConteudo(rca) {
       <td>${labels_categoria[chave]}</td>
       <td>${fmtPeso(cat.peso)} kg</td>
       <td><input type="text" inputmode="numeric" class="meta-peso-input" data-chave="${chave}" value="${fmtInput(metaPeso)}"> kg</td>
+      <td class="${classeDif}">${textoDif}</td>
       <td>${cat.positivacao}</td>
       <td>${metaPosit}</td>
-      <td class="${classeDif}">${textoDif}</td>
     </tr>`;
   }).join("");
 
   return `
     <div class="panel">
       <table class="breakdown">
-        <thead><tr><th>Categoria</th><th>Peso</th><th>Meta Peso</th><th>Positivação</th><th>Meta Positivação</th><th>Diferença</th></tr></thead>
+        <thead><tr><th>Categoria</th><th>Peso</th><th>Meta Peso</th><th>Diferença</th><th>Positivação</th><th>Meta Positivação</th></tr></thead>
         <tbody>${linhas}</tbody>
       </table>
       <button class="btn-limpar" id="btnLimpar">Limpar metas deste vendedor</button>
@@ -273,6 +273,13 @@ function montarDatalist() {
 }
 
 document.getElementById("codigoInput").addEventListener("input", renderizarRca);
+
+// Se o Edmar editar a Meta Posit no Painel Performance (melhoria_salarial)
+// numa ABA JÁ ABERTA deste painel, o navegador dispara "storage" — assim
+// a Meta Positivação atualiza sozinha aqui, sem precisar dar F5.
+window.addEventListener("storage", (e) => {
+  if (e.key === CHAVE_OVERRIDES_DEPARTAMENTOS) renderizarRca();
+});
 
 montarDatalist();
 renderizarRca();
