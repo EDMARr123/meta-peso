@@ -29,11 +29,16 @@ def extrair():
             "rota": r["rota"],
             "supervisor": r["supervisor"],
             "categorias": categorias,
+            # Meta de positivação por categoria configurada no Painel
+            # Performance (melhoria_salarial) — ponto de partida antes de
+            # qualquer edição ao vivo (essa vem do localStorage no navegador).
+            "meta_posit_departamento": r.get("meta_posit_departamento", {}),
         })
 
     constantes = {
         "labels_categoria": origem["constantes"]["labels_categoria"],
         "ordem_categorias": origem["constantes"]["ordem_categorias"],
+        "metas_categoria_padrao": origem["constantes"]["metas_categoria_padrao"],
     }
     return rcas, constantes
 

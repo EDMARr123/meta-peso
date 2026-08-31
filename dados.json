@@ -46,6 +46,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -94,6 +105,17 @@
           "peso": 4.5,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -142,6 +164,17 @@
           "peso": 92.5,
           "positivacao": 7
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -190,6 +223,17 @@
           "peso": 56.5,
           "positivacao": 8
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -238,6 +282,17 @@
           "peso": 66,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -286,6 +341,17 @@
           "peso": 35.5,
           "positivacao": 6
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -334,6 +400,17 @@
           "peso": 18,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -382,6 +459,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -430,6 +518,17 @@
           "peso": 16.5,
           "positivacao": 3
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -478,6 +577,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -526,6 +636,17 @@
           "peso": 5.5,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -574,6 +695,17 @@
           "peso": 4.5,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -622,6 +754,17 @@
           "peso": 45.5,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -670,6 +813,17 @@
           "peso": 37.5,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -718,6 +872,17 @@
           "peso": 82.5,
           "positivacao": 3
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -766,7 +931,8 @@
           "peso": 5.5,
           "positivacao": 1
         }
-      }
+      },
+      "meta_posit_departamento": {}
     },
     {
       "codigo": 12,
@@ -814,6 +980,17 @@
           "peso": 22,
           "positivacao": 2
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -862,6 +1039,17 @@
           "peso": 16.5,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -910,6 +1098,17 @@
           "peso": 44,
           "positivacao": 5
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -958,6 +1157,17 @@
           "peso": 110,
           "positivacao": 5
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1006,6 +1216,17 @@
           "peso": 83.5,
           "positivacao": 7
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1054,6 +1275,17 @@
           "peso": 134.5,
           "positivacao": 6
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1102,6 +1334,17 @@
           "peso": 25.5,
           "positivacao": 3
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1150,6 +1393,17 @@
           "peso": 44,
           "positivacao": 3
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1198,6 +1452,17 @@
           "peso": 132,
           "positivacao": 5
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1246,6 +1511,17 @@
           "peso": 16.5,
           "positivacao": 2
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1294,6 +1570,17 @@
           "peso": 9,
           "positivacao": 2
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1342,6 +1629,17 @@
           "peso": 32,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1390,6 +1688,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1438,6 +1747,17 @@
           "peso": 44,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1486,6 +1806,17 @@
           "peso": 24.5,
           "positivacao": 2
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1534,6 +1865,17 @@
           "peso": 26.5,
           "positivacao": 5
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1582,6 +1924,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1630,6 +1983,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1678,6 +2042,17 @@
           "peso": 137.5,
           "positivacao": 8
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1726,6 +2101,17 @@
           "peso": 130.5,
           "positivacao": 10
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1774,6 +2160,17 @@
           "peso": 9,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1822,6 +2219,17 @@
           "peso": 88,
           "positivacao": 4
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1870,6 +2278,17 @@
           "peso": 11,
           "positivacao": 2
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1918,6 +2337,17 @@
           "peso": 104.5,
           "positivacao": 10
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -1966,6 +2396,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -2014,6 +2455,17 @@
           "peso": 5.5,
           "positivacao": 1
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -2062,6 +2514,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -2110,7 +2573,8 @@
           "peso": 9,
           "positivacao": 1
         }
-      }
+      },
+      "meta_posit_departamento": {}
     },
     {
       "codigo": 791,
@@ -2158,6 +2622,17 @@
           "peso": 0,
           "positivacao": 0
         }
+      },
+      "meta_posit_departamento": {
+        "bacon": 15.0,
+        "calabresa": 15.0,
+        "frescais": 20.0,
+        "paes": 15.0,
+        "lactios": 15.0,
+        "batata": 15.0,
+        "bovino": 15.0,
+        "suino": 15.0,
+        "thermo_cat": 40.0
       }
     },
     {
@@ -2206,7 +2681,8 @@
           "peso": 0,
           "positivacao": 0
         }
-      }
+      },
+      "meta_posit_departamento": {}
     },
     {
       "codigo": 1000,
@@ -2254,7 +2730,8 @@
           "peso": 0,
           "positivacao": 0
         }
-      }
+      },
+      "meta_posit_departamento": {}
     }
   ],
   "constantes": {
@@ -2281,6 +2758,18 @@
       "suino",
       "thermo_cat",
       "vegetais"
-    ]
+    ],
+    "metas_categoria_padrao": {
+      "bacon": 5,
+      "calabresa": 22,
+      "frescais": 15,
+      "paes": 17,
+      "lactios": 23,
+      "batata": 15,
+      "bovino": 10,
+      "suino": 6,
+      "thermo_cat": 6,
+      "vegetais": 6
+    }
   }
 }

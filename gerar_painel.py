@@ -195,6 +195,28 @@ function limparEstado(codigo) {
   try { localStorage.removeItem(chaveEstado(codigo)); } catch (e) {}
 }
 
+// ---- Meta Positivação — só leitura, vem do Painel Performance
+// (melhoria_salarial). Mesmo domínio do GitHub Pages (edmarr123.github.io),
+// então o localStorage é compartilhado: o que o Edmar edita lá (campo
+// "Meta Posit") aparece aqui ao vivo, sem precisar reextrair nada. ----
+const CHAVE_OVERRIDES_DEPARTAMENTOS = "mps_overrides_v1";
+const MAPA_CATEGORIA_DEPARTAMENTOS = {
+  bacon: "bacon", calabresa: "calabresa", frescais: "frescais", paes: "paes",
+  lactios: "lacteos", batata: "batata", bovino: "bovino", suino: "suino",
+  thermo_cat: "thermo",
+};
+
+function metaPositivacao(rca, chave) {
+  try {
+    const overrides = JSON.parse(localStorage.getItem(CHAVE_OVERRIDES_DEPARTAMENTOS) || "{}");
+    const chaveDep = MAPA_CATEGORIA_DEPARTAMENTOS[chave];
+    const overRca = overrides[rca.codigo];
+    if (chaveDep && overRca && overRca[chaveDep] !== undefined) return overRca[chaveDep];
+  } catch (e) {}
+  const metaDep = rca.meta_posit_departamento[chave];
+  return metaDep !== undefined ? metaDep : DADOS.constantes.metas_categoria_padrao[chave];
+}
+
 function montarConteudo(rca) {
   const estado = lerEstado(rca.codigo);
   const { labels_categoria, ordem_categorias } = DADOS.constantes;
@@ -202,6 +224,7 @@ function montarConteudo(rca) {
   const linhas = ordem_categorias.map(chave => {
     const cat = rca.categorias[chave];
     const metaPeso = estado.metasPeso[chave];
+    const metaPosit = metaPositivacao(rca, chave);
     // Diferença = Peso Atual − Meta Peso: positivo (verde) = já bateu e
     // está acima da meta; negativo (vermelho) = quanto ainda falta.
     const diferenca = cat.peso - metaPeso;
@@ -212,6 +235,7 @@ function montarConteudo(rca) {
       <td>${fmtPeso(cat.peso)} kg</td>
       <td><input type="text" inputmode="numeric" class="meta-peso-input" data-chave="${chave}" value="${fmtInput(metaPeso)}"> kg</td>
       <td>${cat.positivacao}</td>
+      <td>${metaPosit}</td>
       <td class="${classeDif}">${textoDif}</td>
     </tr>`;
   }).join("");
@@ -219,7 +243,7 @@ function montarConteudo(rca) {
   return `
     <div class="panel">
       <table class="breakdown">
-        <thead><tr><th>Categoria</th><th>Peso</th><th>Meta Peso</th><th>Positivação</th><th>Diferença</th></tr></thead>
+        <thead><tr><th>Categoria</th><th>Peso</th><th>Meta Peso</th><th>Positivação</th><th>Meta Positivação</th><th>Diferença</th></tr></thead>
         <tbody>${linhas}</tbody>
       </table>
       <button class="btn-limpar" id="btnLimpar">Limpar metas deste vendedor</button>
