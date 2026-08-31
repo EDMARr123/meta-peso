@@ -161,10 +161,11 @@ function montarConteudo(rca) {
   const linhas = ordem_categorias.map(chave => {
     const cat = rca.categorias[chave];
     const metaPeso = estado.metasPeso[chave];
-    const diferenca = metaPeso - cat.peso;
-    const bateu = diferenca <= 0;
-    const classeDif = bateu ? "dif-pos" : "dif-bad";
-    const textoDif = bateu ? "Bateu" : `Faltam ${fmtPeso(diferenca)} kg`;
+    // Diferença = Peso Atual − Meta Peso: positivo (verde) = já bateu e
+    // está acima da meta; negativo (vermelho) = quanto ainda falta.
+    const diferenca = cat.peso - metaPeso;
+    const classeDif = diferenca >= 0 ? "dif-pos" : "dif-bad";
+    const textoDif = (diferenca >= 0 ? "+" : "") + fmtPeso(diferenca) + " kg";
     return `<tr>
       <td>${labels_categoria[chave]}</td>
       <td>${fmtPeso(cat.peso)} kg</td>
