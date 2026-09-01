@@ -274,7 +274,7 @@ function renderizarRca() {
     return;
   }
 
-  avatarAtual.innerHTML = avatarHtml(rca.nome, FOTOS_RCAS[normalizarNomeFoto(rca.nome)], 40);
+  avatarAtual.innerHTML = avatarHtml(rca.nome, FOTOS_RCAS[normalizarNomeFoto(rca.nome)], 52);
   nomeAtual.textContent = rca.nome;
   rotaAtual.textContent = `RCA ${rca.codigo} · ${rca.rota}`;
   conteudo.innerHTML = montarConteudo(rca);
