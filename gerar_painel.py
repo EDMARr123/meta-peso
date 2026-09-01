@@ -92,6 +92,8 @@ header.top p { margin: 0 0 18px; color: var(--ink-soft); font-size: 13.5px; }
 table.breakdown { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 6px; }
 table.breakdown th { text-align: right; font-size: 10.5px; text-transform: uppercase; color: var(--ink-faint); font-weight: 800; padding: 6px 6px; border-bottom: 1px solid var(--border); }
 table.breakdown th:first-child, table.breakdown td:first-child { text-align: left; }
+table.breakdown th:nth-child(5), table.breakdown td:nth-child(5),
+table.breakdown th:nth-child(6), table.breakdown td:nth-child(6) { text-align: center; }
 table.breakdown td { text-align: right; padding: 6px 6px; font-variant-numeric: tabular-nums; font-weight: 700; border-bottom: 1px solid var(--border); }
 table.breakdown tr:last-child td { border-bottom: none; }
 table.breakdown td.dif-pos { color: var(--good); }
