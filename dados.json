@@ -4,7 +4,7 @@
       "codigo": 33,
       "nome": "ARTHUR",
       "rota": "GYN RT 19 - SEG 02",
-      "supervisor": "EDMAR",
+      "supervisor": "SEM SUPERVISOR",
       "categorias": {
         "bacon": {
           "peso": 47.393,
@@ -63,7 +63,7 @@
       "codigo": 23,
       "nome": "FABIO L.",
       "rota": "GYN RT 21 - SEG 01",
-      "supervisor": "EDMAR",
+      "supervisor": "SEM SUPERVISOR",
       "categorias": {
         "bacon": {
           "peso": 211.037,
@@ -2531,7 +2531,7 @@
       "codigo": 381,
       "nome": "RODRIGO T",
       "rota": "GYN RT 105 - ROTAS ESPECIAIS",
-      "supervisor": "RICHARD",
+      "supervisor": "SEM SUPERVISOR",
       "categorias": {
         "bacon": {
           "peso": 113.538,
@@ -2580,7 +2580,7 @@
       "codigo": 791,
       "nome": "LEANDRO GOMES",
       "rota": "GYN RT 05 - NOVO MUNDO",
-      "supervisor": "FLAVIANE",
+      "supervisor": "SEM SUPERVISOR",
       "categorias": {
         "bacon": {
           "peso": 3,
